@@ -1380,7 +1380,7 @@
   },
   "v-img component": {
     "prefix": "vImg",
-    "body": ["<v-img src='$0'>","</v-img>$0"],
+    "body": ["<v-img src='$0'>", "</v-img>$0"],
     "description": "v-image component - Vuetify"
   },
   "v-layout component": {
